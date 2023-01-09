@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paginaWeb", "paginaWeb.csproj", "{82709492-D5C4-41D8-8D51-9A28DC3E724D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "practica", "practica", "{E6B356B4-9DCA-4ACA-8F98-77C3AB03EDAE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "d", "d", "{E6B356B4-9DCA-4ACA-8F98-77C3AB03EDAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dd", "dd", "{1D5FE5CA-7414-4A44-B8F6-3B506D8541BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
